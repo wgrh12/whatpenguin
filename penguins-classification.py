@@ -1,5 +1,6 @@
 import pandas as pd
 penguins = pd.read_csv('https://github.com/dataprofessor/data/blob/master/penguins_cleaned.csv')
+# This csv file seemed to have errors. After copy paste to save as a local .csv file, it worked. 
 
 # Ordinal feature encoding
 # https://www.kaggle.com/pratik1120/penguin-dataset-eda-classification-and-clustering
